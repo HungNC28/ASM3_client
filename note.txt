@@ -1,0 +1,3 @@
+Update app:
+- xét cookie trước khi gọi 1 số API
+"check cookies before calling some API"
